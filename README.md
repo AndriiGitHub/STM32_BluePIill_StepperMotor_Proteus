@@ -1,7 +1,7 @@
 # STM32_BluePIill_StepperMotor_Proteus
 STM32CubeIDE 1.10.1, Proteus 8.13
 
-Stepping Motor with using driver ULN2003A
+Stepper Motor with using driver ULN2003A
 Not use Arduino Lib
 
 Library Installation :
